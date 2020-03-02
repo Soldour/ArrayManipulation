@@ -12,7 +12,7 @@ void removeI(int arr[], int numof_cell) {
 
         printf("%d\n", arr[i]);
     }
-    printf("///////////////////'''''one item is REMOVED'''''''///////////////////\n");
+    printf("///////////////////'''''one item is REMOVED from the array'''''''///////////////////\n");
 }
 
 void expand(int arr[], int numof_cell) {
